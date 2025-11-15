@@ -1,0 +1,30 @@
+* [Home](Home)
+* [Getting Started](Getting-Started)
+* [System Architecture](System-Architecture)
+* [Release Notes](Release-Notes)
+* **Features**
+  * [Homepage](features/Homepage)
+  * [Clients](features/Clients)
+  * [Files & Attachments](features/Files-and-Attachments)
+  * [Forms & ACORD](features/Forms-and-ACORD)
+  * [Integrations](features/Integrations)
+  * [Interface & Shell](features/Interface)
+  * [Proposals & Proposler](features/Proposals-and-Proposler)
+  * [Renewals & Submissions](features/Renewals-and-Submissions)
+* **Agents & AI**
+  * [OpenAIPro + Agent Stack](agents/OpenAIPro-and-Agent-Stack)
+  * [Prompt Library](agents/Agent-Prompts)
+  * [Database Debug Guide](agents/Database-Debug-Guide)
+  * [Roadmap](agents/Roadmap)
+* **Reference**
+  * [Binding & Events](reference/Binding-Events)
+  * [Dropdowns](reference/Dropdowns)
+  * [Feature Map](reference/Feature-Map)
+  * [Product Types](reference/Product-Types)
+  * [Renewal Data Share](reference/Renewal-Data-Share)
+  * [Word Doc Integration](reference/Word-Doc-Integration)
+* **Guides**
+  * [Desktop Builds](guides/Desktop-Builds)
+* **Integrations**
+  * [Integration Architecture](integrations/Integration-Architecture)
+* [Archive](archive/Binding-Events-legacy)
